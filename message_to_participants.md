@@ -1,4 +1,4 @@
-At Univents, you can send a messages  by e-mail to those who are currently registered.
+At Univents, you can send a messages by e-mail to those who are currently registered.
 It can be used for various things such as "Notification for must bring things for events", "Reminder of the day before the event", "Notification of postponement or cancellation".
 
 ## How to send
@@ -16,4 +16,4 @@ Open "Messages" tab on the left in the event management page.
 ### 5. Write the message you want to send
 ### 6. Press the “Register” button
 ### 7. When you complete these steps, you have successfully registered the email your organization want to send for your event participant.
-Until the message is sent, you can change the content of the message or the date and time you want to send the mail. 
+Until the message is sent, you can change the content of the message or the date and time you want to send the mail.
