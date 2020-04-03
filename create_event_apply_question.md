@@ -1,11 +1,11 @@
 Univents allows users to take surveys when registering for an event.
  You can ask anything, such as "Do you need Halal food?" Or "What are you looking forward to?"
- In addition, the following information is gathered by default, so you do not need to create a survey.  **
+ ** In addition, the following information is gathered by default, so you do not need to create a survey.  **
 
  - Name
  - Country of origin (region)
- - Student classification (university students, graduate students, etc.)
  - University
+ - Student classification (university students, graduate students, etc.)
  - Department
 
  ### Types of response form
@@ -13,6 +13,7 @@ Univents allows users to take surveys when registering for an event.
 You can also add any number of questions to your surveys.
 
  #### Radio button
+ <!-- only one じゃなくて onlyでいいのか？↓↓ -->
  This form is used when you want the user to select ** only ** from the options.
  ! [1.png] (http://drive.google.com/uc?export=view&id=14mn-yYDxnG3qBkW5dGFQzSKP4JzJ4z_M)
 
