@@ -1,21 +1,21 @@
-This section describes basic information  that will be registered in an event.
+This section describes basic information that will be registered in an event.
 
 ## Language
-List of basic information that needs to be input when creating an event.
 Select the first language to register the event on Univents
 Event information can be posted up to two languages.
 The second language will be automatically translated based on the language you input to the system, and can also be modified later.
 
 ### Event Title
 Please register the name of the event.
-Thi title will be used for event listing and email purposes.
+This title will be used on the event list page and email.
+<!-- ↓どういう意味だ？ ↓ -->
 It is effective to name the event so people who are interested can participate.
 Also, the organization will be displayed automatically, so you do not have to include the name of the organization in the event title.
 Example : “International Exchange Party”
 
 ### Venue Name
 Please register the venue name.
-Currently it is not displayed as a map, but but it will be displayed on GoogleMaps soon.
+Currently it is not displayed as a map, but it will be displayed on GoogleMaps sometime soon.
 Example : Nagoya University Southern Cafeteria
 
 ### Street Address
@@ -30,18 +30,18 @@ Please select one of the closets purposes to your event.
 
 ### Date and starting time
 Enter the date and the time the event will start.
-*Please confirm the time as AM or PM before registering the event time.
+\*Please confirm the time as AM or PM before registering the event time.
 
 ### End date and time
-Enter the time and the you want to end the event.
-*Optional
+Enter the time when you end the event.
+\*Optional
 
 ### Starting time of the reception
 If the reception starting time is different from the event starting time, please enter it here.
 
 ### Capacity
 The capacity information will show the participants how big the event will be.
-For now, we do not have a function such as “Restricting the application due to exceeding capacity” (Request the UniTeam if such features are needed)
+For now, we do not have a function such as “Restricting the application due to exceeding capacity” (If such features are needed, please contact the UniTeam.)
 
 ### Spoken Language
 Please enter the language of the event.
@@ -56,14 +56,14 @@ Feel free to use this feature when you want to explain your events in details, o
 Specifically, if this application deadline has been entered, a reminder will be sent 3 days before this deadline. If not entered, a reminder will be sent 3 days before the event day.
 Note that user cannot apply to an event after this deadline.
 
- ### Release
+### Release
  ** If you do not turn this on, it will not be listed on the event list page **
  If you do not want the users to see it while you are still entering it, you can turn it off, so that it will not be listed on the event list page.
 
  ### Event target
  Select the audience for the event.
- Details: [About the event audience]()
+ Details: [About the event audience](https://www.univents.jp/#/help_articles/about_event_target)
 
  ### Application form questionnaire
  When users sign up for an event, they can answer a survey similar to GoogleForm format.
- Details: [Application form questionnaire] () 
+ Details: [Application form questionnaire] (https://www.univents.jp/#/help_articles/create_event_apply_question)
