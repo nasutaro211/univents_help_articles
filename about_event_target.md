@@ -1,7 +1,7 @@
 The "Event Audience" column is used to determine:
 
  - Whether it is displayed on the event list page for each university?
- - Are the event listed in a weekly mail?
+ - Do you want your event to be listed in the weekly mail?
 
  ### How to choose event audience
  #### Events for university students only

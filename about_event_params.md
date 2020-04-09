@@ -1,4 +1,5 @@
 This section describes basic information that will be registered in an event.
+List of basic information that needs to be input when creating an event.
 
 ## Language
 Select the first language to register the event on Univents
@@ -7,15 +8,14 @@ The second language will be automatically translated based on the language you i
 
 ### Event Title
 Please register the name of the event.
-This title will be used on the event list page and email.
-<!-- ↓どういう意味だ？ ↓ -->
+This title will be used for event listing and email purposes.
 It is effective to name the event so people who are interested can participate.
 Also, the organization will be displayed automatically, so you do not have to include the name of the organization in the event title.
 Example : “International Exchange Party”
 
 ### Venue Name
 Please register the venue name.
-Currently it is not displayed as a map, but it will be displayed on GoogleMaps sometime soon.
+Currently it is not displayed as a map, but it will be displayed on GoogleMaps soon.
 Example : Nagoya University Southern Cafeteria
 
 ### Street Address
@@ -33,7 +33,7 @@ Enter the date and the time the event will start.
 \*Please confirm the time as AM or PM before registering the event time.
 
 ### End date and time
-Enter the time when you end the event.
+Enter the time when you want to end the event.
 \*Optional
 
 ### Starting time of the reception
